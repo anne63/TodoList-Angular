@@ -20,6 +20,4 @@ export class AppComponent {
   title = 'My To Do List APP';
 }
 
-//retertyrtert
-//test....
-// 852825252
+
